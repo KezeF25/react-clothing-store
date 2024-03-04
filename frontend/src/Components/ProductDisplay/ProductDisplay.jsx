@@ -35,7 +35,7 @@ export const ProductDisplay = (props) => {
       </div>
       <div className={styles.productDisplayRight}>
         <h1>{product.name}</h1>
-        <div className={styles.ProductDisplayRigthStar}>
+        <div className={styles.productDisplayRigthStar}>
           <img src={starIcon} alt="" />
           <img src={starIcon} alt="" />
           <img src={starIcon} alt="" />
